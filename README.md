@@ -7,7 +7,7 @@ Il consiste à modéliser une base de données hôtelière, puis à l’exploite
 
 ## 👥 Membres du binôme
 - [Ton Nom]
-- [Nom de ton binôme] (section différente)
+- [Nom de ton binôme] @IMANECHALATI
 
 ## 📁 Contenu du projet
 
