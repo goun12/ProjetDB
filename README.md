@@ -1,13 +1,13 @@
 # Projet Bases de Données 2025
 
 ## 🎓 Contexte
-Ce projet a été réalisé dans le cadre de l’UE Bases de Données, Licence MIP - IAP S4 (2025) avec Pr. J. Zahir.
+Ce projet a été réalisé dans le cadre de l’UE Bases de Données, IAP S4 2025 avec Pr. J. Zahir.
 
 Il consiste à modéliser une base de données hôtelière, puis à l’exploiter via une interface web construite avec Python, SQLite et Streamlit.
 
 ## 👥 Membres du binôme
-- [Ton Nom]
-- [Nom de ton binôme] @IMANECHALATI
+- Yahya GOUN
+- Imane CHALATI
 
 ## 📁 Contenu du projet
 
@@ -26,8 +26,8 @@ L’interface est développée avec **Streamlit** et permet les fonctionnalités
 - Ajout d’une réservation
 
 ### 🔗 Liens utiles
-- 📂 **Lien vers ce dépôt GitHub** : [ajouter le lien ici]
-- 📹 **Vidéo de démonstration de l'interface** : [ajouter le lien Drive ou YouTube ici]
+- 📂 **Lien vers ce dépôt GitHub** : https://github.com/goun12/ProjetDB.git
+- 📹 **Vidéo de démonstration de l'interface** :https://drive.google.com/file/d/1MobXh_SCjetGIz_kvTBeDAFDTi-B-TyF/view?usp=sharing
 
 ## 🧰 Technologies utilisées
 - MySQL Workbench
